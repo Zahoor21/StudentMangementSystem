@@ -1,8 +1,8 @@
-package com.campus.core.dto;
+package com.campus.core.dto.Details;
 
 import java.time.Year;
 
-public class Institute {
+public class InstituteDetails {
 
     private int instId;
     private String instName;
